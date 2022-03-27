@@ -1,0 +1,1 @@
+{"d":"a hand with an expanded middle finger","t":["ASCII","палец"],"c":"lﾆヽ\r\n　    　 |= | \r\n　    　 |_ |\r\n　　/⌒|~ |⌒i-、\r\n　 /|　|　|　| ｜\r\n　｜(　(　(　(　｜\r\n　｜　　　　　 ｜\r\n　 ＼　　　　　/\r\n　　 ＼　　　 |","id":72}

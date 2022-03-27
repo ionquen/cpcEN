@@ -1,0 +1,1 @@
+{"t":["BibleThump","dota","just_ns","смайлы","старость"],"c":"Зачем мне эти ваши виверны, рубики, тапки??? &&WutFace&& WutFace &&WutFace&& WutFace . я захожу в доту покайфовать, покидать мидасик на варлоке &&SeemsGood&& SeemsGood &&SeemsGood&& 2021 век на дворе, какие кнопки. блин, опять луз &&BibleThump&& &&BibleThump&& &&BibleThump&& &&BibleThump&&","id":189}

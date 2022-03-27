@@ -1,0 +1,1 @@
+{"t":["паста","смайлы"],"c":"&&HACKERMANS&& Запускаю П.А.С.Т.У. &&HACKERMANS&& Полностью &&HACKERMANS&& Автоматическую &&HACKERMANS&& Самокопирующуюся &&HACKERMANS&& Текстовую &&HACKERMANS&& Утилиту &&HACKERMANS&&","id":956}

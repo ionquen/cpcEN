@@ -1,0 +1,1 @@
+{"t":["комплимент","смайлы"],"c":"&&SeemsGood&& молодец &&SeemsGood&& держишь &&SeemsGood&& уровень &&SeemsGood&& как всегда &&SeemsGood&& говно &&SeemsGood&&","id":777}

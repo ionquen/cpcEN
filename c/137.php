@@ -1,0 +1,1 @@
+{"d":"a man falls next to a multi-storey building","t":["ASCII"],"c":"┓┏┓┏┓┃\r\n┛┗┛┗┛┃\r\n┓┏┓┏┓┃\r\n┛┗┛┗┛┃ FUUUUUUUCK...\r\n┓┏┓┏┓┃＼○／\r\n┛┗┛┗┛┃ / /\r\n┓┏┓┏┓┃ノ)\r\n┛┗┛┗┛┃\r\n┓┏┓┏┓┃\r\n┛┗┛┗┛┃\r\n┓┏┓┏┓┃\r\n┛┗┛┗┛┃\r\n┓┏┓┏┓┃\r\n┛┗┛┗┛┃\r\n┓┏┓┏┓┃\r\n┛┗┛┗┛┃\r\n┓┏┓┏┓┃\r\n┛┗┛┗┛┃\r\n┓┏┓┏┓┃\r\n┛┗┛┗┛┃","id":137}

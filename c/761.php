@@ -1,0 +1,1 @@
+{"t":["KappaPride","паста","смайлы"],"c":"&&KappaPride&& ctrl+c нажали &&KappaPride&& ctrl+v нажали &&KappaPride&& в чат твича вставили &&KappaPride&& и ждать кд сообщения &&KappaPride&& очень слабенькие сегодня модераторы &&KappaPride&& ну очень слабенькие &&KappaPride&&","id":761}

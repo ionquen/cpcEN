@@ -1,0 +1,1 @@
+{"t":["dreadztv","смайлы"],"c":"&&peepoSmash&& КТО &&peepoSmash&& ПИЗДЕЛ &&peepoSmash&& НЕ ДРЕДУХУ &&peepoSmash&& ААА","id":1349}

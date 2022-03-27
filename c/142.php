@@ -1,0 +1,1 @@
+{"d":"smoke break, hard workers (symbols break the chat!)","t":["cigarette"],"c":"Smoke break, hard workers! (_̅_̅_̅_̅_̅_̅_̅_̅ (ด้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็็้้้้้้้.","id":142}

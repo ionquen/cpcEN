@@ -1,0 +1,1 @@
+{"t":["dota","пудж","смайлы"],"c":"Тааааaк.. &&monkaHmm&& \nPhantom Lancer агила... &&monkaHmm&& \nPhantom Assassin кинжал талант... &&monkaHmm&& \nPUDGE - удален из игры &&YEP&&","id":295}

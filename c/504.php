@@ -1,0 +1,1 @@
+{"t":["паста","правда","смайлы"],"c":"Я знаю правду &&SchubertWalk&& Но я не скажу &&SchubertWalk&& Я приколист &&SchubertWalk&& В чате брожу &&SchubertWalk&& Меня ты не трожь &&SchubertWalk&& Хожу и брожу &&SchubertWalk&& Приколы кидаю &&SchubertWalk&& Пасты пишу","id":504}

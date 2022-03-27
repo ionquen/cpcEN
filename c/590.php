@@ -1,0 +1,1 @@
+{"t":["KappaPride","заквиель","смайлы"],"c":"&&KappaPride&& пока &&KappaPride&& стример &&KappaPride&& срет &&KappaPride&& в &&KappaPride&& сартире &&KappaPride&& гей &&KappaPride&& летает &&KappaPride&& по &&KappaPride&& кватрире &&KappaPride&&","id":590}

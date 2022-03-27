@@ -1,0 +1,1 @@
+{"d":"Marlboro cigarette smokes (dangerous for chat!)","t":["cigarette"],"c":"(̅_̅_̅_̅_̅м̲̅a̲̅rl̲̅b̲̅o̲̅r̲̅o̲̅̅_̅_̅_( ﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞ:","id":44}

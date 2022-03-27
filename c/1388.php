@@ -1,0 +1,1 @@
+{"t":["выбор","поиск","смайлы","чат"],"c":"А че ты сюда смотришь? &&ResidentSleeper&& \nСамому лень искать? &&ResidentSleeper&& \nНе знаешь что выбрать? &&ResidentSleeper&& \nТут ответов нет никаких &&ResidentSleeper&& \nВ монитор лучше смотри &&ResidentSleeper&&","id":1388}

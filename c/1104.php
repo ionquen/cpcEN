@@ -1,0 +1,1 @@
+{"t":["говно","мова","стрим"],"c":"I’m your viewer from Japan, you are the best russian streamer, so I want to say a few nice words about your stream in my language 口中丹订 廾丹乂丫认 彐丅口 厂口乃廾口 ))","id":1104}
