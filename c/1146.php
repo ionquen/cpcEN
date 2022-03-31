@@ -1,1 +1,0 @@
-{"t":["собака"],"c":"ВНЕЗАПНАЯ DooooooooogLookingSussyAndCute ПЕРЕКЛИЧКА DooooooooogLookingSussyAndCute ВСРАТЫХ DooooooooogLookingSussyAndCute СОБАК DooooooooogLookingSussyAndCute","id":1146}

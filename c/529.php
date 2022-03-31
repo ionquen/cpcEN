@@ -1,1 +1,0 @@
-{"t":["песня"],"c":"И я кричу FLEXPLS Остановите катку FLEXPLS Эту игру FLEXPLS Фил уже въебал FLEXPLS Эй, Ксеноморф FLEXPLS Рассчитывай ставку FLEXPLS А он смеётся FLEXPLS На гузло на-е-бав FLEXPLS","id":529}

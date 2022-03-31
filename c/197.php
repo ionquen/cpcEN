@@ -1,1 +1,1 @@
-{"t":["паста","смайлы"],"c":"Как не зайдешь в чат, одно и тоже. Один клоун, копирует и вставляет сообщение другого клоуна &&peepoClown&& Хватит превращать чат в цирк &&peepoClown&&","id":197}
+{"t":["team solomid"],"c":"TSM aka \"Truly Somewhat Mediocre\" is a North American team that consistently underperforms in all international tournaments. It is specifically known for having a weak early, mid, and late-game.","id":197}

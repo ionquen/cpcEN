@@ -1,1 +1,0 @@
-{"t":["бунт","смайлы","чат"],"c":"АНСАБЫ, ДЕРЖАТЬ СТРОЙ &&SMOrc&& &&PurpleStar&& &&SMOrc&& &&PurpleStar&& &&SMOrc&& &&PurpleStar&& &&SMOrc&& &&PurpleStar&& &&SMOrc&&","id":945}

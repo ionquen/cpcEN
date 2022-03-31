@@ -1,1 +1,1 @@
-{"t":["detroit become human","jesusavgn","ненависть"],"c":"28 ударов ножом! Ты действовал наверняка, да?! Это была ненависть? Гнев? Он был в крови, умолял о пощаде, но ты снова и снова наносил ему удары! Я знаю – ты убийца. Почему ты не признаешь?! Почему? Произнеси: я его убил. Это что, так сложно? Признайся, что убил! Признайся!!!","id":214}
+{"t":["amongus","smiles"],"c":"Gregory, do you see the small vent on the floor? Have you ever heard of &&Among&& Us, Gregory? You need to vent. I know it will be hard for you to be sus, but i know you can do it Gregory.","id":214}

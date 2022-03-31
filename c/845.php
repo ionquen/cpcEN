@@ -1,1 +1,0 @@
-{"t":["админ","твич"],"c":"HolidayOrnament Здравствуйте, вас беспокоит администратор твича HolidayOrnament проверка на знание правил HolidayOrnament назовите все запрещённые слова в алфавитном порядке HolidayOrnament @zxcursed","id":845}

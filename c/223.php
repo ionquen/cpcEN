@@ -1,1 +1,0 @@
-{"t":["дурка","смайлы"],"c":"╔══════════════════════════════╗║ . 田 &&Durka&& 田 &&Durka&& 田 &&Durka&& 田 &&Durka&& 田 ║║ peepoShortMad ║ ║ . 田 &&Durka&& 田 &&Durka&& 田 &&Durka&& 田 &&Durka&& 田 &&Durka&& 田 ║ ║ . 田 &&Durka&& 田 &&Durka&& 田 :door: 田 &&catJAM&& 田 &&Durka&& 田⠀ ║ ╚══════════════════════════════╝","id":223}

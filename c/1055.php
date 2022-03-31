@@ -1,1 +1,0 @@
-{"t":["BloodTrail","бан","паста","смайлы"],"c":"&&BloodTrail&& \n9 из 10 дантистов\r &&BloodTrail&& \nрекомендуют эту пасту\r &&BloodTrail&& \nоставшийся уебан\r &&BloodTrail&& \nбанит за неё\r &&BloodTrail&& \nЗа эту тоже","id":1055}

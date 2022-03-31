@@ -1,1 +1,0 @@
-{"t":["BloodTrail","мать","секс","смайлы"],"c":"Ку &&BloodTrail&& извини &&BloodTrail&& но я &&BloodTrail&& твою маму &&BloodTrail&& вчера &&BloodTrail&&","id":1022}

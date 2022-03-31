@@ -1,1 +1,0 @@
-{"t":["dead inside","shadow fiend","zxcursed"],"c":"zxc это когда умер в семье кто-то....","id":539}

@@ -1,1 +1,1 @@
-{"t":["zxcursed","анекдот","бар"],"c":"Улитка заходит в бар, но бармен заявляет: \"У нас строгая политика в отношении улиток!\" — и ногой выпихивает ее на улицу. Через неделю улитка возвращается в бар и говорит бармену: \"Ну и нахуя ты это сделал!?\"","id":158}
+{"t":["spam"],"c":"Chill guys\r\nReally appreciate that you guys are trying to help so much. It's honestly really cool. But please check before you post anything to see if someone else has posted it first. No need to spam the sub with warnings that have already been posted. Thanks 🇺🇦","id":158}

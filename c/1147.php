@@ -1,1 +1,0 @@
-{"t":["паста","собака","чат"],"c":"DooooooooogLookingSussyAndCute Хочу видеть чат собак","id":1147}

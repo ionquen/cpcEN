@@ -1,1 +1,0 @@
-{"t":["BloodTrail","бомж","деньги","смайлы","стример"],"c":"НИЩИЙ &&BloodTrail&& на вебку денег нет &&BloodTrail&& НИЩИЙ &&BloodTrail&& на вебку денег нет &&BloodTrail&& НИЩИЙ &&BloodTrail&& на вебку денег нет &&BloodTrail&&","id":1404}

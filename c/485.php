@@ -1,1 +1,0 @@
-{"t":["dota"],"c":"ARCANE :mage: RING :ring: Нейтральный :man: предмет 1 разряда +10 к интеллекту :brain: +2 к броне :shield: Активное: Replenish Mana :blue_circle: Восстанавливает 75 маны всем окружающим :family: союзникам. Радиус 1200 :astonished:","id":485}

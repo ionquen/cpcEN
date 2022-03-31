@@ -1,1 +1,1 @@
-{"t":["гривна","мова","рубль"],"c":"Привіт, я сьогодні на стрімі кудись нажав, і вискочила фігня типу 160р, 480р, 720р, 1080р. Чому у тебе ціни не в гривнях?","id":200}
+{"t":["smiles","streamer"],"c":"tare you kidding me? i spent so much money on you, tier 3 every month and you’re not even going to be on Twitch anymore? this is unjust! not to mention the countless channel points ive collected to redeem on POKI stickers and maybe even more! &&ResidentSleeper&&  L streamer.","id":200}

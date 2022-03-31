@@ -1,1 +1,1 @@
-{"t":["пиво","шиза"],"c":"если бы ты не был с ником подпивасник, я бы подумал, что ты скудоумный шизойд - но на самом деле ты просто рофлишь с меня и сразу понял, что паста про основных прендентов - не более чем олдовая рофляночка и сарказм","id":184}
+{"t":["politics"],"c":"-1,68m manlet 😈🙏🏻\r\n-0 pussy 😹\r\n-0 major cities conquered 💀\r\n-0 hairs left on his head 😈🙏🏻\r\n-currency less valuable than robux 🔥👍\r\n-empty threats merchant 🤯\r\n-1,68cm 😹😹😹😹\r\nBetter dictator than Stalin??? 🔥","id":184}

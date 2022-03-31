@@ -1,1 +1,0 @@
-{"t":["твич","угроза"],"c":"я тебя <message deleted>, а потом <message deleted> и дважды в <message deleted> прямо <message deleted>. Понял меня, <message deleted> <message deleted>?","id":707}

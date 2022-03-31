@@ -1,1 +1,0 @@
-{"t":["песня","эмодзи"],"c":"I came :person_running: I saw :eyes: I came :person_running: I saw :eyes: I praise :pray: the Lord :innocent: then break :boom: the law 👩⚖ I take :hand_splayed: what's mine 🙋♂ then take :hand_splayed: some more :relieved: It rains 🌧 it pours ⛆ it rains 🌧 it pours ⛆","id":908}

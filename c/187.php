@@ -1,1 +1,1 @@
-{"t":["модератор"],"c":"Теперь этого чела нельзя забанить, он модератор. Поэтому бейте ногами и давите морально nskaBox","id":187}
+{"t":["jerma985","overwatch"],"c":"On March 21st, 2016 Jerma was streaming Overwatch when suddenly he felt an overwhelming sense of dread. Moments later, Ster (who was hiding behind the curtains) snuck up behind Jerma, and after a short struggle, Ster stole Jerma's hat, saying \"I'm you now.\" Jerma died. At that point the camera footage was frozen, but it later returned to Ster pretending to be Jerma.","id":187}

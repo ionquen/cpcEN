@@ -1,1 +1,1 @@
-{"t":["грусть","снюс"],"c":"Cидя дома, грущу чего боюсь Иду в магаз, покупаю себе снюс Я обретаю силы, я получаю кайф - снюс моя жизнь, снюс is my life","id":176}
+{"t":["amongus"],"c":"When the person who pretends to be someone else in order to deceive others, especially for fraudulent gain is giving the impression that something is questionable or dishonest, causing one to have the idea or impression that they are of questionable, dishonest, or dangerous character or condition.","id":176}
