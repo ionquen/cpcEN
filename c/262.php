@@ -1,0 +1,1 @@
+{"t":["truth"],"c":"the reality is that the truth is probably somewhere in the middle. just like the flat earth debate, the truth is in the middle. the earth is not round nor purely flat; it is a dome","id":262}

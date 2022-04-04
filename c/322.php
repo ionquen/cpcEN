@@ -1,0 +1,1 @@
+{"t":["amongus","smiles"],"c":"ඞ AMOUGUS SO &&SUSSY&& WUSSY shut you fucking mouth its a dead game i cant even say the word sus without a person saying AMOUNGUS i cant even DESCRIBE how my life has changed from this because if i go on the internet &&SUS&& FUNNY OOH i swear next time i hear or see it i will shit on your mom","id":322}

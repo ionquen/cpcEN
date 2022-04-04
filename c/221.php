@@ -1,0 +1,1 @@
+{"t":["chat","spam"],"c":"what is the point of spamming in chat?? all you do is send some pixels to some other guy in his 30's who is pretending to be an idiot... wow what an accomplishment 󠀀","id":221}

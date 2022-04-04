@@ -1,0 +1,1 @@
+{"t":["amongus","mom"],"c":"If you shit in the sink at exactly 4:20 am and yell “amogus” 69 times,a shadowy figured called mom will come to beat you up and you will wake up in a place called the orphanage","id":302}

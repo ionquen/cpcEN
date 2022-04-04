@@ -1,0 +1,1 @@
+{"t":["emoji","streamer"],"c":"Who is [streamer name]? 🤔 For the blind, 🦇 it is light. 💡 For the hungry 😣 , it is bread. 🍞 For the sick, 💉 it is the cure. ⚕️ For the sad 😢 , it is joy. 😂 For the poor 🚫💰 , it is the treasure; 💰 ⛏️ for the debtor ➖ 💰 , it is forgiveness. 🙏 For the face 😶 , it is the lips 👄","id":281}

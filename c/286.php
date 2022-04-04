@@ -1,0 +1,1 @@
+{"t":["dick","dispute"],"c":"\"ok and?\" and? and what? suck my dick? what the fuck do you want me to say? i already got my point across to your pubic brain and here you are acting like a smug smartass in a miserable way to be funny and trying to win an argument against me cause you won't accept fair criticism","id":286}

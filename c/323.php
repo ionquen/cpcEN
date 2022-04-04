@@ -1,0 +1,1 @@
+{"t":["japan"],"c":"like the word ばか that means idiot in japanese, but the wannabe japanese idiots will always try to type those words in the romaji, they type \"baka\", i hate seeing shit like that, stop trying to talk japanese if you don't even know it :|","id":323}

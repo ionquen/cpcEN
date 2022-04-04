@@ -1,0 +1,1 @@
+{"t":["dick"],"c":"👋hey! 💀spooky👀 sluts it’s 🍭cocktober 👅😘happy samhain 🎃 come on😋 ghouls👻grab👌 ya crystal😂 balls🔮 and hop 👉on a 😍broomsdick 🍆the 🍟veil🍟 is thin😎 tonight 🌙so protect 🌚 yourself 😈& 🍫wrap it up 🍬","id":274}

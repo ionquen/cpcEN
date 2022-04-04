@@ -1,0 +1,1 @@
+{"t":["sunglasses"],"c":"Sounds to me like...\r\n( •_•)\r\n( •_•)>⌐■-■\r\n[punch line]\r\n﻿(⌐■_■)","id":264}

@@ -1,0 +1,1 @@
+{"t":["paste","pyramid","smiles"],"c":"&&FeelsBadMan&& Only a true failure can fail to build a pyramid &&FeelsBadMan&& &&FeelsBadMan&& May as well not even bother &&FeelsBadMan&& &&FeelsBadMan&& &&FeelsBadMan&& And Still my pyramid sucks","id":338}

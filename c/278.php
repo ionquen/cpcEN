@@ -1,0 +1,1 @@
+{"t":["chat","emoji","smiles"],"c":"✌️ &&AYAYA&& 🌸 CUTE CHAT ✌️ &&AYAYA&& 🌸 ✌️ &&AYAYA&& 🌸 CUTE CHAT ✌️ &&AYAYA&& 🌸 ✌️ &&AYAYA&& 🌸 CUTE CHAT ✌️ &&AYAYA&& 🌸 ✌️ &&AYAYA&& 🌸 CUTE CHAT ✌️ &&AYAYA&& 🌸 ✌️ &&AYAYA&& 🌸","id":278}

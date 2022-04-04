@@ -1,0 +1,1 @@
+{"t":["relationships"],"c":"This is how dangerous parasocial relationships can form. Dream doesn't love you. He can't love you. Dream doesn't KNOW you. He can appreciate you but he can't fucking love you.","id":344}

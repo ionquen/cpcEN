@@ -1,0 +1,1 @@
+{"t":["DrDisRespectLIVE"],"c":"Can we stop bullying Doc??? He is a hard working man, he needs to feed two families.","id":222}

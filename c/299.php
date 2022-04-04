@@ -1,0 +1,1 @@
+{"t":["penguins","war"],"c":"This does not change the fact that in Antarctica there are 21 million penguins and in Malta there are 502,653 inhabitants. So if the penguins decide to invade Malta, each Maltese will have to fight 42 penguins.","id":299}

@@ -1,0 +1,1 @@
+{"t":["frog","pepe","smiles"],"c":"idk who needs to hear this but regardless of your channel, you need to remove your &&Pepe&& emotes. It doesn’t matter what your intent is, the peepee frog causes harm and I will never feel comfortable in your stream with them present.","id":225}

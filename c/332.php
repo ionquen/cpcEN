@@ -1,0 +1,1 @@
+{"t":["league of legends"],"c":"I am in the middle of carrying a league of legends game about to close it out, and my bra-less wife brings me a sandwich (not asked for) with chips as I get a double kill bot lane.\r\nSo how is your day going?","id":332}

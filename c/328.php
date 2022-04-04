@@ -1,0 +1,1 @@
+{"t":["amongus","smiles","walmart"],"c":"if you go to walmart at 3 AM naked, and scream \"AMONG US &&SUS&&  69 times, these mysterious figures known as \"The &&Police&&  will knock you out, and you'll end up in a cell with a man nicknamed \"BIG JOHN\".\r\npretty scary, right?","id":328}
